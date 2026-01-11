@@ -1,6 +1,6 @@
 // Reverse a number using loops
 // Concepts used: while loop, modulo operator
-public class Basic{
+public class ReverseNumber{
   public static void main(String[] args) {
     int n = 4556;
     int rev =0;
